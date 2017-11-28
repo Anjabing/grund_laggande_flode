@@ -4,8 +4,9 @@ let pets = [
   {name: 'Fido', species: 'dog'},
   {name: 'Garfield', species: 'cat'},
   {name: 'Jumbo', species: 'elephant'},
-  {name: 'Fido', species: 'dog'}
+  {name: 'Thomas', species: 'cat'}
 ];
+
 
 $(document).on("click", ".pet-list li", function() {
   // This is the "raw" HTML-element clicked on
