@@ -1,6 +1,5 @@
 /*jshint esversion:6*/
 
-
 let myTeacher = new Teacher ('anna', 'Karlsson', '012345');
 myTeacher.startTeachingCourse('engelska');
 myTeacher.startTeachingCourse('Tyska');
