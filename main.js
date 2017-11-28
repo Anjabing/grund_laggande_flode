@@ -4,7 +4,7 @@ let pets = [
   {name: 'Fido', species: 'dog'},
   {name: 'Garfield', species: 'cat'},
   {name: 'Jumbo', species: 'elephant'},
-  {name: 'Fido', species: 'dog'}
+  {name: 'rick', species: 'dogs'}
 ];
 
 $(document).on("click", ".pet-list li", function() {
