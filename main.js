@@ -8,6 +8,7 @@ let pets = [
 ];
 
 
+
 $(document).on("click", ".pet-list li", function() {
   // This is the "raw" HTML-element clicked on
   console.log($(this));
