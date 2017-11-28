@@ -24,6 +24,7 @@ $(document).on("click", ".pet-list li", function() {
   console.log(pets);
   // Now rerender the pets
   renderPets();
+  
 });
 
 // render pets to the dom as list items
